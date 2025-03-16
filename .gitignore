@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Модели и данные
+*.pt
+*.pth
+*.h5
+*.onnx
+*.weights
+datasets/
+results/
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Системные файлы
+.DS_Store
